@@ -1,0 +1,62 @@
+/********************************************************************************* 
+*  WEB322 – Assignment 1 
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.   
+*  No part of this assignment has been copied manually or electronically from any other source 
+*  (including web sites) or distributed to other students. 
+*  
+*  Name: Chakshu Alawadhi    Student ID:150056208      Date: 2nd October 2022
+********************************************************************************/ 
+
+body{
+
+    background-color: whitesmoke;
+
+}
+
+h1{
+    color: lightblue; 
+    background-color: lightcoral;
+    text-align: center;
+}
+
+#container{
+
+    border: 3px solid black;
+    height: 780px;
+    width: 1200px;
+}
+
+.inner{
+
+    border: 5px solid yellowgreen;
+    height: 300px;
+    width: 300px;
+    float: right;
+    margin-left: 80px;
+
+}
+
+.img{
+
+    height: 300px;
+    width: 300px;
+
+}
+
+#footer{
+
+    border: 5px solid red;
+    background-color: coral;
+    height:50px;
+    width:1512px;
+    margin-top:490px;
+    margin-left:10px;
+
+}
+
+nav{
+    color:black;
+    text-align: center;
+    background-color: red;
+    
+}
